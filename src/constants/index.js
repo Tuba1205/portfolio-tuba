@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/img.3.jpeg";
+import project2 from "../assets/projects/img.4.jpeg";
+import project3 from "../assets/projects/img.1.jpeg";
+import project4 from "../assets/projects/img.2.jpeg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and Angular, as well as back-end technologies like Node.js, MySQL, Expressjs, laravel and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -9,14 +9,14 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "Feb,2024-Nov,2024 ",
-    role: "Full Stack Developer",
-    company: "Web educators",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB", "Angular", "Laravel"],
+    year: "May,2023-Present ",
+    role: "Full Stack Web Developer",
+    company: "UM Tech",
+    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB and MySQL databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    technologies: ["Javascript", "React.js", "Node.js", "Express.js", "MongoDB", "Angular", "Laravel"],
   },
   {
-    year: "Aug,2023-Dec,2023",
+    year: "Jan,2023-April,2023",
     role: "Wordpress Developer",
     company: "Allience Technology",
     description: `Designed and developed a web applications using wordpress, elementor.`,
